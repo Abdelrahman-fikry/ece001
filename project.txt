@@ -1,0 +1,7 @@
+<doctypehtml>
+	<head>
+		<title>fikry</title>
+	</head>
+	<body>
+	<h1>zamalek</h1>
+</html>
